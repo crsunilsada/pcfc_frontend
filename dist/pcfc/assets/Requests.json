@@ -1,0 +1,12 @@
+[
+  { "id": 1, "portName": "Jafza", "applied": 400, "accepted": 320, "rejected": 80 },
+  { "id": 2, "portName": "Mina Rashid", "applied": 120, "accepted": 80, "rejected": 40 },
+  { "id": 3, "portName": "Jabal Ali Port", "applied": 500, "accepted": 490, "rejected": 10 },
+  { "id": 4, "portName": "Marfa Daira", "applied": 800, "accepted": 320, "rejected": 480 },
+  { "id": 5, "portName": "Hamria Port", "applied": 200, "accepted": 180, "rejected": 20 },
+  { "id": 6, "portName": "Dubai Maritime City", "applied": 350, "accepted": 300, "rejected": 50 },
+  { "id": 7, "portName": "Drydocks World Dubai", "applied": 220, "accepted": 200, "rejected": 20 },
+  { "id": 8, "portName": "Hamria Port", "applied": 200, "accepted": 180, "rejected": 20 },
+  { "id": 9, "portName": "Dubai Maritime City", "applied": 350, "accepted": 300, "rejected": 50 },
+  { "id": 10, "portName": "Drydocks World Dubai", "applied": 220, "accepted": 200, "rejected": 20 }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "fileName": "Trade License",
+    "fileType": "PDF",
+    "fileLogo": "icons/pdf.png"
+  },
+  {
+    "fileName": "Profile",
+    "fileType": "Docx",
+    "fileLogo": "icons/doc.png"
+  },
+  {
+    "fileName": "Photograph",
+    "fileType": "Image",
+    "fileLogo": "icons/jpg.png"
+  }
+]
