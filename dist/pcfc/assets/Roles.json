@@ -1,0 +1,8 @@
+[
+  { "id": 1, "roletype": "Super Admin", "status": "Active", "assignedusers": "2"},
+  { "id": 2, "roletype": "Editor", "status": "Active", "assignedusers": "3" },
+  { "id": 3, "roletype": "Pass Approver", "status": "Active", "assignedusers": "2" },
+  { "id": 4, "roletype": "Supervisor", "status": "Active", "assignedusers": "2" },
+  { "id": 5, "roletype": "Security Guard", "status": "On Approval", "assignedusers": "0" },
+  { "id": 6, "roletype": "Pass Approver", "status": "Active", "assignedusers": "2" }
+]

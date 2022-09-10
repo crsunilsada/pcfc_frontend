@@ -1,0 +1,22 @@
+[
+  { "id": 1, "passtype": "Daily Pass", "maxvalidity": "1 days", "location":"Jafza", "purpose": "Business Meeting" ,"amount":"05.00", "passcategory": "Visitor Pass", "gateaccess": "All", "status": "Active"},
+  { "id": 2, "passtype": "Weekly Pass", "maxvalidity": "60 days",  "location":"Mina Rashid","purpose": "Employment" ,"amount":"23.00", "passcategory": "Contract Pass", "gateaccess": "Gate  1", "status": "Active"},
+  { "id": 3, "passtype": "Tool Pass", "maxvalidity": "1 Year", "location":"Marfa Daira","purpose": "Photography","amount":"35.00", "passcategory": "Temporary Pass", "gateaccess": "Gate  4",  "status": "Active"},
+  { "id": 4, "passtype": "Tool Pass", "maxvalidity": "30 days", "location":"Jafza","purpose": "Security Guard" ,"amount":"65.00", "passcategory": "Escorting Pass", "gateaccess": "Visitor Pass", "status": "Active"},
+  { "id": 5, "passtype": "Tool Pass", "maxvalidity": "23 days", "location":"Jabel Ali","purpose": "Visit" ,"amount":"100.00", "passcategory": "Visitor Pass", "gateaccess": "Gate  9",  "status": "Active"},
+  { "id": 6, "passtype": "Weekly Pass", "maxvalidity": "60 days", "location":"Hamriya Port","purpose": "Interview","amount":"65.00" , "passcategory": "Contract Pass","gateaccess": "Gate  12",  "status": "Active"},
+  { "id": 7, "passtype": "Temporary Pass", "maxvalidity": "60 days", "location":"Jafza","purpose": "Military Cargos","amount":"15.00" , "passcategory": "Temporary Pass", "gateaccess": "Gate  2", "status": "Active"},
+  { "id": 8, "passtype": "Tool Pass", "maxvalidity": "1 days", "location":"Jafza","purpose": "Business Meeting" ,"amount":"35.00", "passcategory": "Visitor Pass", "gateaccess": "Gate  4", "status": "Active"},
+  { "id": 9, "passtype": "Tool Pass", "maxvalidity": "1 Year", "location":"Jafza","purpose": "Training" ,"amount":"100.00", "passcategory": "Contract Pass", "gateaccess": "Gate  7", "status": "Active"},
+  { "id": 10, "passtype": "Daily Pass", "maxvalidity": "60 days", "location":"Jafza", "purpose": "Client Visit","amount":"10.00" , "passcategory": "Visitor Pass", "gateaccess": "Gate  12",  "status": "Active"},
+  { "id": 11, "passtype": "Daily Pass", "maxvalidity": "1 days", "location":"Jafza", "purpose": "Business Meeting" ,"amount":"05.00", "passcategory": "Security Guard Service", "gateaccess": "All", "status": "Active"},
+  { "id": 12, "passtype": "Weekly Pass", "maxvalidity": "60 days",  "location":"Jafza", "purpose": "Employment" ,"amount":"05.00", "passcategory": "Contract Pass", "gateaccess": "Gate  12", "status": "Active"},
+  { "id": 13, "passtype": "Tool Pass", "maxvalidity": "7 days", "location":"Jafza", "purpose": "Photography","amount":"100.00" , "passcategory": "Contract Pass", "gateaccess": "Gate  7", "status": "Active"},
+  { "id": 14, "passtype": "Tool Pass", "maxvalidity": "60 days","location":"Jafza",  "purpose": "Security Guard" ,"amount":"05.00", "passcategory": "Visitor Pass", "gateaccess": "Gate  2", "status": "Active"},
+  { "id": 15, "passtype": "Tool Pass", "maxvalidity": "1 days", "location":"Jafza",  "purpose": "Visit" ,"amount":"35.00 ", "passcategory": "Contract Pass", "gateaccess": "All", "status": "Active"},
+  { "id": 16, "passtype": "Weekly Pass", "maxvalidity": "60 days", "location":"Jafza",  "purpose": "Interview","amount":"100.00" , "passcategory": "Visitor Pass", "gateaccess": "All", "status": "Active"},
+  { "id": 17, "passtype": "Temporary Pass", "maxvalidity": "7 days", "location":"Jafza", "purpose": "Military Cargos","amount":"14.00" , "passcategory": "Contract Pass", "gateaccess": "Gate  4", "status": "Active"},
+  { "id": 18, "passtype": "Permanent Pass", "maxvalidity": "7 days", "location":"Jafza", "purpose": "Business Meeting" ,"amount":"22.00", "passcategory": "Visitor Pass", "gateaccess": "Gate  12", "status": "Active"},
+  { "id": 19, "passtype": "Permanent Pass", "maxvalidity": "1 days", "location":"Jafza",  "purpose": "Training" ,"amount":"35.00", "passcategory": "Security Guard Service", "gateaccess": "Gate  1", "status": "Active"},
+  { "id": 20, "passtype": "Daily Pass", "maxvalidity": "1 days","location":"Jafza",  "purpose": "Client Visit","amount":"100.00", "passcategory": "Security Guard Service", "gateaccess": "Gate  7", "status": "Active"}
+]
